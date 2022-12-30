@@ -4,7 +4,7 @@ layout: default
 
 ## Film photography
 
-<small>35mm shot on a late 70s Japanese Pentax K1000 and a 1977 Russian Zorki 4K</small>
+<small>35mm shot on a late 70s Japanese Pentax K1000 and a 1977 Russian Zorki 4K. You can check [@noimportra](https://www.instagram.com/noimportra/), updated more frequently.</small>
 
 <center class = "photo_title" ><i>Pink trees</i></center>
 <img class = "photo" src="/photos/pink.jpg">
