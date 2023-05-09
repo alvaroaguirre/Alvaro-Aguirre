@@ -14,9 +14,9 @@ My goal is to use data and technology with a purpose.
 
 ### What am I up to?
 
-I am a Deployment Strategist at <a href = "https://www.palantir.com/" target = "_blank">Palantir Technologies</a> in London, using data to solve some of the world's most complex problems. I believe thinking critically about data does only give you answers, but more importantly, it allows you to ask the right questions. I try to keep one foot in the technical world, and the other in the business/organisational world.
+I am a Deployment Strategist at <a href = "https://www.palantir.com/" target = "_blank">Palantir Technologies</a>, using data to solve some of the world's most complex problems. I believe thinking critically about data does only give you answers, but more importantly, it allows you to ask the right questions. I try to keep one foot in the technical world, and the other in the human/organisational world.
 
-Currently, I am working with England's National Health Service to help them tackle the long waiting lists in Elective Care. You can read more of the work I am involved in [here](https://blog.palantir.com/understanding-our-work-with-the-nhs-6d451beea022).
+I have previously worked with England's National Health Service to help them tackle the long waiting lists in Elective Care, working closely with doctors and non-clinical staff developing and implementing cutting-edge software. You can read more of the work I did [here](https://blog.palantir.com/understanding-our-work-with-the-nhs-6d451beea022). I have now moved from healthcare into international government.
 
 ### Outside work
 
